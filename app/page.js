@@ -57,7 +57,7 @@ export default function Home() {
 					<div className="mx-4 flex gap-5 lg:gap-20 mb-10">
 						<a
 							target="_blank"
-							href="https://hopeforjustice.org/wp-content/uploads/2025/03/Extreme-Challenge-2026-Brochure-A4-Single-Pages.pdf"
+							href="https://hopeforjustice.org/wp-content/uploads/2025/05/Extreme-Challenge-2026-Brochure-A4-Single-Pages-1.pdf"
 							className="cursor-pointer hover:scale-105 transition-all"
 						>
 							<Image
